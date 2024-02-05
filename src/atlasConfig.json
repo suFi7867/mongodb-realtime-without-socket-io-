@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-gtmhg",
+    "appUrl": "https://realm.mongodb.com/groups/63499b6ad23664490a8c17b2/apps/65c08b2c28997fa8cdce3871",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/63499b6ad23664490a8c17b2/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
